@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.pt
 *.bin
+deberta_results/
+checkpoint-*/
+*.safetensors
