@@ -6,3 +6,9 @@ __pycache__/
 deberta_results/
 checkpoint-*/
 *.safetensors
+smartguard_model/
+smartguard_model_old/
+smartguard_model_oldv2/
+*.safetensors
+checkpoint-*/
+deberta_results/
